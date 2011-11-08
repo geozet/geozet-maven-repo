@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nl.geozet</groupId>
+  <artifactId>openls-databinding</artifactId>
+  <versioning>
+    <versions>
+      <version>0.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20111108092439</lastUpdated>
+  </versioning>
+</metadata>

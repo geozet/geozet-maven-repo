@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>nl.geozet</groupId>
+  <artifactId>openls-databinding</artifactId>
+  <version>0.4-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20111108.092438</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20111108092438</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.4-20111108.092438-1</value>
+        <updated>20111108092438</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.4-20111108.092438-1</value>
+        <updated>20111108092438</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>0.4-20111108.092438-1</value>
+        <updated>20111108092438</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.4-20111108.092438-1</value>
+        <updated>20111108092438</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
