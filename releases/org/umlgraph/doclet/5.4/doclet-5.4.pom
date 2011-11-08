@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.umlgraph</groupId>
+  <artifactId>doclet</artifactId>
+  <version>5.4</version>
+  <description>UMLGraph doclet om samen met dot uml diagrammen te genereren. Alternatieve (mirror site) http://www.dmst.aueb.gr/dds/sw/umlgraph-mirror/</description>
+	<url>http://www.umlgraph.org/</url>
+	<distributionManagement>
+         <downloadUrl>http://www.umlgraph.org/jars/UmlGraph-5.4.jar</downloadUrl>
+	</distributionManagement>
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>manual</distribution>
+		</license>
+	</licenses>
+</project>
